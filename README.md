@@ -3,7 +3,7 @@ OpenCV-Python Tutorials
 
 Homework2  
 
-<img src="./images.jpeg" width="80%" height="80%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+<img src="./image.jpeg" width="80%" height="80%" title="QCQI Visualization" alt="QCQI Visualization"></img>
 
 https://youtu.be/GfGDKLhKR3c
 
