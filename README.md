@@ -1,6 +1,3 @@
-# OpenCV-Python Tutorials
-OpenCV-Python Tutorials
-
 
 
 <img src="./image.jpg" width="80%" height="80%" title="QCQI Visualization" alt="QCQI Visualization"></img>
