@@ -20,4 +20,4 @@ https://youtu.be/y40NimrmhXk
 
 https://youtu.be/fO0xC8jDyNU
 
-[![Video](https://img.youtube.com/vi/y40NimrmhXk/maxresdefault.jpg)](https://www.youtube.com/watch?v=fO0xC8jDyNU)\
+[![Video](https://img.youtube.com/vi/fO0xC8jDyNU/maxresdefault.jpg)](https://www.youtube.com/watch?v=fO0xC8jDyNU)
